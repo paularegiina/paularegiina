@@ -4,12 +4,6 @@
 - 🌱 I’m currently learning Analysis and Systems Development and FullStack JAVA.
 - 📫 How to reach me: (92) 99367-6261 | pregiina@gmail.com.
 
-<div align="center">
-  <a href="https://https://github.com/paularegiina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paularegiina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularegiina&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ##
 
 <div style="display: inline_block"><br>
@@ -28,3 +22,13 @@
   <a href="https://www.linkedin.com/in/paula-regiina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCHi5B3d6pon64rx1eeUAb1Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+<div align="center">
+  <a href="https://https://github.com/paularegiina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paularegiina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularegiina&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  ##
