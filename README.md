@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on IT Analyst and Scrum.
 - 🌱 I’m currently learning Analysis and Systems Development and FullStack JAVA.
-- 📫 How to reach me: (92) 99367-6261 | pregiina@gmail.com.
+- 📫 How to reach me: (92) 99367-6261
 
 ##
 
