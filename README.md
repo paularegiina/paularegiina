@@ -1,4 +1,4 @@
-### Olá, eu sou a Paula Regina 👋
+### Hi, i'm Paula Regina 👋
 
 - 🔭 I’m currently working on IT Analyst and Scrum.
 - 🌱 I’m currently learning Analysis and Systems Development and FullStack JAVA.
