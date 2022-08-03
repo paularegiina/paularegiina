@@ -32,3 +32,5 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/paularegiina/paularegiina/blob/output/github-contribution-grid-snake.svg)
